@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "526046080322",
+    "project_id": "fooma-9ef86",
+    "storage_bucket": "fooma-9ef86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526046080322:android:13bff231d213334eb42cdb",
+        "android_client_info": {
+          "package_name": "com.fooma.fooma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526046080322-gppo3qorregqqnmt7nrea6t67drtgroc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fooma.fooma",
+            "certificate_hash": "78ae3e4a3f77d629228bb5fcfb08fe4a69476630"
+          }
+        },
+        {
+          "client_id": "526046080322-n2diodn6gscrodlk175chods6ps3lda6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMTQSDyto51ga1eyInErvDMVqlFU-Xj_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526046080322-n2diodn6gscrodlk175chods6ps3lda6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
